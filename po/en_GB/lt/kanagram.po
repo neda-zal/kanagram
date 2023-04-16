@@ -844,7 +844,7 @@ msgstr "Sukurk naują"
 #: vocabsettingswidget.ui:58
 #, kde-format
 msgid "Download new vocabulary from \"Get hot new Stuff\""
-msgstr "Atsisiųskite naują žodyną iš \Get hot new Stuff\"
+msgstr "Atsisiųskite naują žodyną iš Get hot new Stuff"
 
 #. i18n: ectx: property (text), widget (KNSWidgets::Button, btnDownloadNew)
 #: vocabsettingswidget.ui:61
